@@ -176,6 +176,8 @@ J-STD-016-1995 (IEEE Std 1498-1995), EIA/IEEE Interim Standard for Information T
 
 ## <a id = "EX1.9"></a> 1.9 ##
 
+Ссылка на интеллект карту [Push](https://prezi.com/p/p6gp2dnkc0q6/?present=1)
+
 ## <a id = "EX2.1"></a> 2.1 ##
 
 ### Описание рабочего места программиста 

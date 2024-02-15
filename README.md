@@ -278,12 +278,12 @@ J-STD-016-1995 (IEEE Std 1498-1995), EIA/IEEE Interim Standard for Information T
 
 ### Программное обеспечение общего назначения (aуд. 323)
 1. MS Office профессиональный плюс 2016
-       MS Office Word 2016
-       MS Office Excel 2016
-       MS Office PowerPoint 2016
-       MS Office Publisher 2016
-       MS Office Access 2016
-       MS Office OneNote 2016
+   1) MS Office Word 2016
+   2) MS Office Excel 2016
+   3) MS Office PowerPoint 2016
+   4) MS Office Publisher 2016
+   5) MS Office Access 2016
+   6) MS Office OneNote 2016
 2. Paint
 3. GIMP 2.10.10
 4. VLC media player

@@ -1,2 +1,2 @@
-# Site for practic
+# Kidallov.github.io
 Репозиторий для практики
